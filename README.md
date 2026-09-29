@@ -1,70 +1,52 @@
-# AI Data Analyst Agent
+# AI Data Analyst Agent Dashboard
 
-An AI-powered business intelligence dashboard that analyzes CSV sales data and generates automated insights for decision-making.
+An AI-powered data analytics dashboard built with Next.js, TypeScript, Tailwind CSS, Recharts, and OpenAI.
 
 ## Features
 
-• CSV Upload & Processing
+• Upload CSV files
 
-• KPI Dashboard
+• Interactive KPI Dashboard
 
-• Revenue Analytics
+• Sales & Revenue Analytics
 
-• Region Performance Analysis
-
-• Interactive Charts
+• Dynamic Charts & Visualizations
 
 • AI Generated Insights
 
-• PDF Export
+• PDF Export Functionality
 
-• CSV Report Export
-
-• Dark Mode Support
+• Responsive Design
 
 ## Tech Stack
 
-- Next.js 15
+- Next.js
 - TypeScript
 - Tailwind CSS
 - Recharts
 - OpenAI API
-- html2canvas
+- PapaParse
 - jsPDF
+- html2canvas
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Charts & Analytics
+
+![Charts](screenshots/charts.png)
+
+### AI Insights
+
+![AI Insights](screenshots/AI%20insights.png)
 
 ## Installation
 
 ```bash
+git clone https://github.com/Rabeehkm6/ai-data-analyst-agent.git
+cd ai-data-analyst-agent
 npm install
 npm run dev
-```
-
-## Project Overview
-
-This dashboard allows users to:
-
-- Upload sales datasets in CSV format
-- Visualize key business metrics
-- Track regional performance
-- Identify top-performing sales representatives
-- Generate AI-powered business insights
-- Export reports as PDF
-- Download processed data
-
-## Screenshots
-
-_Add screenshots here later._
-
-## Future Improvements
-
-- Authentication
-- Database Integration
-- Real-time Analytics
-- Advanced Forecasting
-- Interactive Filters
-
-## Author
-
-**Rabeeh KM**
-
-GitHub: https://github.com/Rabeehkm6
