@@ -50,3 +50,30 @@ git clone https://github.com/Rabeehkm6/ai-data-analyst-agent.git
 cd ai-data-analyst-agent
 npm install
 npm run dev
+
+## Project Highlights
+
+- Upload and analyze CSV datasets
+- Interactive KPI dashboard
+- Dynamic charts and visualizations
+- AI-powered business insights
+- PDF report export
+- Responsive modern UI
+
+## Future Enhancements
+
+- Predictive analytics
+- Time-series forecasting
+- Multi-file analysis
+- User authentication
+- Database integration
+
+## Author
+
+**Rabeeh KM**
+
+- LinkedIn: www.linkedin.com/in/rabeeh-km
+- GitHub: https://github.com/Rabeehkm6
+
+---
+Built with Next.js, TypeScript, Tailwind CSS, Recharts, and OpenAI.
